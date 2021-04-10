@@ -7,9 +7,9 @@ I am Anna Cotugno, a junior developer with a background in Pure Mathematics. I a
 -->
 ## &#x1f4c8; GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amgc3&theme=vue-dark)
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgc3&count_private=true&show_icons=true&theme=vue-dark)
 
+![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgc3&count_private=true&show_icons=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amgc3&theme=vue-dark)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
