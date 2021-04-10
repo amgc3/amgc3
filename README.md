@@ -7,7 +7,7 @@ I am Anna Cotugno, a junior developer with a background in Pure Mathematics. I a
 -->
 ## &#x1f4c8; GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amgc3&theme=vue-dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amgc3&theme=vue-dark) -->
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgc3&count_private=true&show_icons=true&theme=vue-dark)
 
 
@@ -17,6 +17,7 @@ I am Anna Cotugno, a junior developer with a background in Pure Mathematics. I a
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
