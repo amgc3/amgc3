@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+I am Anna Cotugno, a junior developer with a background in Pure Mathematics. I am currently learning web development with Node.js
+
 ## &#x1f4c8; GitHub Stats
 
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anna&count_private=true&theme=vue-dark)](https://github.com/amgc3/github-readme-stats)
+[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aamgc3&count_private=true&theme=vue-dark)](https://github.com/amgc3/github-readme-stats)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
