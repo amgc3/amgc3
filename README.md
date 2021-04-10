@@ -2,6 +2,8 @@
 
 I am Anna Cotugno, a junior developer with a background in Pure Mathematics. I am currently learning web development with Node.js
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ## &#x1f4c8; GitHub Stats
 
 [![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgc3&count_private=true&theme=vue-dark)](https://github.com/amgc3/github-readme-stats)
