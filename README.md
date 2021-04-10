@@ -2,7 +2,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgc3&count_private=true)](https://github.com/amgc3/github-readme-stats)
+[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgc3&count_private=true&theme=vue-dark)](https://github.com/amgc3/github-readme-stats)
 
 <!--
 **amgc3/amgc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
