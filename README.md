@@ -27,6 +27,7 @@ I am Anna Cotugno, a junior developer with a background in Pure Mathematics. I a
 <!-- ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a) -->
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
 
 <!--
 **amgc3/amgc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
