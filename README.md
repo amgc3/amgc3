@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Anna Cotugno, a junior developer with a background in Pure Mathematics. I am in the process of building this page ...
+I am Anna Cotugno, a developer with a background in Pure Mathematics. I am in the process of building this page ...
 
 <!--
 ![Jokes Card](https://readme-jokes.vercel.app/api)
