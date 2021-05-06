@@ -30,8 +30,20 @@ I am Anna Cotugno, a developer with a background in Pure Mathematics. I am in th
 ![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
 <!-- ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a) -->
 
+<table border="1" cellpadding="4" cellspacing="0">
+<thead><tr><th align="left">Project</th><th align="left">Description</th><th align="left">Technologies</th></tr></thead>
+<tbody>
+<tr valign="top"><td>be-nc-games  https://git.heroku.com/annas-games-reviews.git</td><td align="left"> API for the purpose of accessing application data programmatically. The intention here is to mimick the building of a real world backend service (such as reddit) which should provide this information to the front end architecture.</td><td align="left">Node.js, Express, PostreSQL, Jest, Supertest</td></tr>
+<tr valign="top"><td>Everywhere</td><td align="right">description</td><td align="leftt">list of technologies used</td></tr>
+</tbody>
+<tfoot><tr valign="top"><td align="right">Sum:</td><td align="right">1,234,569</td></tr>
+</tfoot>
+</table>
+
+
 <!--
 **amgc3/amgc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
