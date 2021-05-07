@@ -30,6 +30,9 @@ I am Anna Cotugno, a developer with a background in Pure Mathematics. I am in th
 ![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
 <!-- ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a) -->
 
+
+## 🔭 Projects
+
 <table border="1" cellpadding="4" cellspacing="0">
 <thead><tr><th align="left">Project</th><th align="left">Description</th><th align="left">Technologies</th></tr></thead>
 <tbody>
