@@ -36,7 +36,7 @@ I am Anna Cotugno, a developer with a background in Pure Mathematics. I am in th
 <table border="1" cellpadding="4" cellspacing="0">
 <thead><tr><th align="left">Project</th><th align="left">Description</th><th align="left">Technologies</th></tr></thead>
 <tbody>
-  <tr valign="top"><td><a href="https://annas-games-reviews.herokuapp.com/api">Games</a></td><td align="left"> API for the purpose of accessing application data programmatically. The intention here is to mimick the building of a real world backend service (such as reddit) which should provide this information to the front end architecture.</td><td align="left">Node.js, Express, PostreSQL, Jest, Supertest</td></tr>
+  <tr valign="top"><td><a href="https://annas-games-reviews.herokuapp.com/api">Games</a></td><td align="left"> API for the purpose of accessing application data programmatically. The intention here is to mimick the building of a real world backend service (such as reddit) which should provide this information to the front end architecture.</td><td align="left">Node.js, Express, PostgreSQL, Jest, Supertest</td></tr>
   <tr valign="top"><td><a href="https://github.com/amgc3/Calculator.git">Calculator</a></td><td align="left">This is a repository to house a small JavaScript exercise.
 The calculator can perform each operation on any number of operands. It can also calculate the number of vowels in a string and output how many times 
 There are three solutions, each with a different take.n</td><td align="leftt">Node.js</td></tr>
