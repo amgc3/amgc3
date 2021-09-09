@@ -21,7 +21,7 @@ I am Anna Cotugno, a developer with a background in Pure Mathematics. I am in th
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) -->
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 <!-- ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)-->
 <!-- ![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=2bbc8a) -->
@@ -36,10 +36,10 @@ I am Anna Cotugno, a developer with a background in Pure Mathematics. I am in th
 <table border="1" cellpadding="4" cellspacing="0">
 <thead><tr><th align="left">Project</th><th align="left">Description</th><th align="left">Technologies</th></tr></thead>
 <tbody>
-  <tr valign="top"><td><a href="https://annas-games-reviews.herokuapp.com/api">Games Backend API</a></td><td align="left"> API for the purpose of accessing application data programmatically. The intention here is to mimic the building of a real world backend service (such as reddit) which should provide this information to the front end architecture.</td><td align="left">Node.js, Express, PostgreSQL, Jest, Supertest</td></tr>
-  <tr valign="top"><td><a href="https://github.com/amgc3/Calculator.git">Calculator</a></td><td align="left">This is a repository to house a small JavaScript exercise.
-The calculator can perform each operation on any number of operands. It can also calculate the number of vowels in a string and output how many times 
-There are three solutions, each takes a different approach.</td><td align="leftt">Node.js</td>
+  <tr valign="top"><td><a href="https://github.com/amgc3/nc-games-api">Games Backend API</a></td><td align="left"> API for the purpose of accessing application data programmatically. The intention here is to mimic the building of a real world backend service (such as reddit) which should provide this information to the front end architecture.</td><td align="left">Node.js, Express, PostgreSQL, Jest, Supertest</td></tr>
+  <tr valign="top"><td><a href="https://github.com/amgc3/primes-table">Primes Table</a></td><td align="left">This is a repository to house a small JavaScript exercise.
+I am building a little app that takes numeric input, n, and an operator, either * or + from a user and outputs a multiplication/addition table of n prime numbers.
+</td><td align="leftt">Node.js</td>
    <tr valign="top"><td><a href="https://github.com/amgc3/nc-games">Games Frontend</a></td><td align="left"> The front end architecture to Games.</td><td align="left">React</td></tr>
   </tr>
 </tbody>
