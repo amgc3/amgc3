@@ -40,7 +40,7 @@ I am Anna Cotugno, a developer with a background in Pure Mathematics. I am in th
   <tr valign="top"><td><a href="https://github.com/amgc3/primes-table">Primes Table</a></td><td align="left">This is a repository to house a small JavaScript exercise.
 I have built a little app that takes numeric input, n, and an operator, either * or + from a user and outputs a multiplication/addition table of n prime numbers.
 </td><td align="leftt">Node.js</td>
-   <tr valign="top"><td><a href="https://github.com/amgc3/nc-games">Games Frontend</a></td><td align="left"> The front app for the Games API.</td><td align="left">React</td></tr>
+   <tr valign="top"><td><a href="https://github.com/amgc3/nc-games">Games Frontend</a></td><td align="left"> The frontend app for the Games API.</td><td align="left">React</td></tr>
   </tr>
 </tbody>
 <!-- <tfoot><tr valign="top"><td align="right">next</td><td align="right">next</td></tr>
