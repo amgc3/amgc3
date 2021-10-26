@@ -36,7 +36,7 @@ I am Anna Cotugno, a developer with a background in Pure Mathematics. I am in th
 <table border="1" cellpadding="4" cellspacing="0">
 <thead><tr><th align="left">Project</th><th align="left">Description</th><th align="left">Technologies</th></tr></thead>
 <tbody>
-  <tr valign="top"><td><a href="https://github.com/amgc3/googlefrontend">Google Front End</a></td><td align="left">This is a repository to house a small HTM and CSS exercise. The task is to design a front-end for Google Search, Google Image Search, and Google Advanced Search.
+  <tr valign="top"><td><a href="https://github.com/amgc3/googlefrontend">Google Front End</a></td><td align="left">This is a repository to house a small HTML and CSS exercise. The task is to design a front-end for Google Search, Google Image Search, and Google Advanced Search.
 </td><td align="leftt">HTML, CSS</td>
   <tr valign="top"><td><a href="https://github.com/amgc3/nc-games-api">Games Backend API</a></td><td align="left"> API for the purpose of accessing application data programmatically. The intention here is to mimic the building of a real world backend service (such as reddit) which should provide this information to the front end architecture.</td><td align="left">Node.js, Express, PostgreSQL, Jest, Supertest</td></tr>
   <tr valign="top"><td><a href="https://github.com/amgc3/primes-table">Primes Table</a></td><td align="left">This is a repository to house a small JavaScript exercise.
