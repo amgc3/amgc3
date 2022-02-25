@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am Anna Cotugno, a developer with a background in Pure Mathematics. I am in the process of building this page ...
+I am a developer with a background in Pure Mathematics. </br>
+🌱 I’m currently learning Python and getting to grips with Java Spring Boot ...
 
 <!--
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -22,7 +23,7 @@ I am Anna Cotugno, a developer with a background in Pure Mathematics. I am in th
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 <!-- ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) -->
-<!-- ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) -->
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 <!-- ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)-->
 <!-- ![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=2bbc8a) -->
@@ -57,8 +58,8 @@ I have built a little app that takes numeric input, n, and an operator, either *
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on learning 
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
